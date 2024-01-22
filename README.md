@@ -2,10 +2,11 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/e154/bus)](https://goreportcard.com/report/github.com/e154/bus)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![codecov](https://codecov.io/github/e154/bus/graph/badge.svg?token=9DQPJQ4OW5)](https://codecov.io/github/e154/bus)
 
-| Branch | Status |
-|--------|--------|
-| master | ![Build Status](https://github.com/e154/bus/actions/workflows/test.yml/badge.svg?branch=master) |
+| Branch | Status                                                                                           |
+|--------|--------------------------------------------------------------------------------------------------|
+| master | ![Build Status](https://github.com/e154/bus/actions/workflows/test.yml/badge.svg?branch=main)    |
 | dev    | ![Build Status](https://github.com/e154/bus/actions/workflows/test.yml/badge.svg?branch=develop) |
 
 ### Overview
